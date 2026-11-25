@@ -52,7 +52,7 @@ La gestión de una intersección necesita considerar que el tránsito limeño es
 
 ## 💡 Nuestra solución
 
-SemáforoVivo Lima reúne dos componentes complementarios:
+Semáforo Vivo reúne dos componentes complementarios:
 
 ### 1. Semáforo adaptativo simulado
 
