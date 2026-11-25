@@ -219,7 +219,7 @@ Abre [https://semaforovivo.vercel.app/](https://semaforovivo.vercel.app/) y sigu
 
 ## 🏙️ Contexto de Smart Mobility en Lima
 
-SemáforoVivo Lima se plantea como una herramienta demostrativa y potencialmente complementaria a los esfuerzos de modernización de la gestión del tránsito en la ciudad. La Municipalidad Metropolitana de Lima y el Banco Mundial han anunciado un programa de modernización semafórica, y la MML viene implementando el Centro de Control y Monitoreo C5.
+Semáforo vivo se plantea como una herramienta demostrativa y potencialmente complementaria a los esfuerzos de modernización de la gestión del tránsito en la ciudad. La Municipalidad Metropolitana de Lima y el Banco Mundial han anunciado un programa de modernización semafórica, y la MML viene implementando el Centro de Control y Monitoreo C5.
 
 El proyecto no busca reemplazar esos programas ni afirmar que las plataformas existentes carecen de funcionalidades específicas. La oportunidad que explora es una capa modular de análisis, simulación, registro de incidencias y reportes que pueda adaptarse a distintas capacidades municipales y evaluarse en pilotos acotados.
 
@@ -252,4 +252,4 @@ Proyecto académico de innovación para la movilidad urbana de Lima.
 
 ---
 
-**SemáforoVivo Lima: no queremos que Lima solamente tenga semáforos más modernos; queremos que sus intersecciones respondan mejor a las necesidades de las personas.**
+**Semáforo Vivo: no queremos que Lima solamente tenga semáforos más modernos; queremos que sus intersecciones respondan mejor a las necesidades de las personas.**
