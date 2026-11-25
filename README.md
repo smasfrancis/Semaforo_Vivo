@@ -1,4 +1,4 @@
-# SemáforoVivo Lima
+# Semáforo Vivo
 
 Semáforo inteligente · Hackathon UNMSM · Smart Mobility.
 
